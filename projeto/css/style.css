@@ -1,0 +1,7 @@
+*{margin: 0px; padding:0px;}
+body{margin-left: 10%; margin-right: 10%; background-color: #f5f5f5; margin-top: 5%;}
+.row{margin: 0px; padding: 0px;}
+.row h4{border-bottom: 2px solid #293B47; color: #293B47; padding-bottom: 5px;}
+.form-control{border-radius: 0px;}
+#content-all{background-color: #FFF; border-radius: 3px; box-shadow: 0px 0px 1px 0px #999; padding: 10px;}
+#content-all p{line-height: 5px;}
